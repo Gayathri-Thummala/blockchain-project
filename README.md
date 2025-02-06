@@ -70,6 +70,7 @@ The digital signature is checked against the blockchain to verify the product’
 # Authors
 
 [Sriya Choudary Yalavarthy](https://github.com/sriya632)
+
 Gayathri Tummala
 
 # Assets
